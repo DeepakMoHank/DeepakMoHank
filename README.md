@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Name: Deepak Mohan K K<br>🎓 Student: BTech CSE (KTU – 3rd Semester)<br>🚀 Role: Creative Lead – MLSA @ LBSCEK<br>🌐 Skills:<br>    💻 Front-End Development (HTML, CSS)<br>    🔐 Cybersecurity Basics
+👨‍💻 Name: Deepak Mohan K K<br>🎓 Student: BTech CSE (KTU – 3rd Semester)<br>🚀 Role: Creative Lead – MLSA @ LBSCEK Media Team Member @GalaxiaLbscek<br>🌐 Skills:<br>    💻 Front-End Development (HTML, CSS)<br>    🔐 Cybersecurity Basics
 
 
 ## 🌐 Socials:
