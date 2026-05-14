@@ -1,17 +1,14 @@
 <img src = "githubanner.JPG"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="YOUR_GITHUB_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -24,17 +21,17 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm Deepak Mohan K K </b></em>, a Computer Science student at LBS College of Engineering. I enjoy building digital products, designing interfaces, and learning new technologies. Currently focusing on Flutter development, video editing, and creative tools while building projects to strengthen my skills.
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at LBS College of Engineering </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Building projects in development and design </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Currently focusing on Flutter </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Video Editing & Creative Design </b></em><br/>
 </p>
 
 <br/>
@@ -42,27 +39,45 @@
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white" />
+</p>
+
+<br/>
+
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Design Tools </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe Lightroom-000000?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/PixelLab-000000?style=for-the-badge" />
+</p>
+
+<br/>
+
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Currently Focusing On </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DaVinci Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 <br/>
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
