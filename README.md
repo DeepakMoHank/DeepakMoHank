@@ -72,7 +72,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Soriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soriano-7326b9130)
 [![Gmail](https://img.shields.io/badge/Gmail-sorianox2013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorianox2013@gmail.com)
-[![ragup.com.br](https://img.shields.io/badge/Product-ragup.com.br-58a6ff?style=for-the-badge&logo=rocket&logoColor=white)](https://ragup.com.br)
+[![Website]([https://img.shields.io/badge/Product-ragup.com.br-58a6ff?style=for-the-badge&logo=rocket&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white))](https://ragup.com.br)
 
 </div>
 
