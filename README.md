@@ -1,83 +1,163 @@
-<img src = "githubanner.JPG"/>
+<!--
+████████████████████████████████████████████████████████████████████████████████
+██                                                                            ██
+██   GUSTAVO SORIANO — SOFTWARE ENGINEER                                      ██
+██                                                                            ██
+████████████████████████████████████████████████████████████████████████████████
+-->
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_GITHUB_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-
-<br>
-
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
-<p>
-  Hello There! <em><b> I'm Deepak Mohan K K </b></em>, a Computer Science student at LBS College of Engineering. I enjoy building digital products, designing interfaces, and learning new technologies. Currently focusing on Flutter development, video editing, and creative tools while building projects to strengthen my skills.
-</p>
-
-
-<br/>
-
-<p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at LBS College of Engineering </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Building projects in development and design </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Currently focusing on Flutter </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Video Editing & Creative Design </b></em><br/>
-</p>
-
-<br/>
-<br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white" />
-</p>
-
-<br/>
-
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Design Tools </em> </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe Lightroom-000000?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/PixelLab-000000?style=for-the-badge" />
-</p>
-
-<br/>
-
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Currently Focusing On </em> </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DaVinci Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-<br/>
-
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
-<div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ███████╗ ██████╗ ██████╗ ██╗ █████╗ ███╗  ██╗ ██████╗    ║
+║   ██╔════╝██╔═══██╗██╔══██╗██║██╔══██╗████╗ ██║██╔═══██╗   ║
+║   ███████╗██║   ██║██████╔╝██║███████║██╔██╗██║██║   ██║   ║
+║   ╚════██║██║   ██║██╔══██╗██║██╔══██║██║╚████║██║   ██║   ║
+║   ███████║╚██████╔╝██║  ██║██║██║  ██║██║ ╚███║╚██████╔╝   ║
+║   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚══╝ ╚═════╝   ║
+║                                                              ║
+║              Full-Stack Engineer · AI Builder                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=gustavosoriano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+
+### `$ whoami`
+
+```bash
+{
+  "name"     : "Gustavo Soriano",
+  "role"     : "Full-Stack Software Engineer",
+  "location" : "Matão, São Paulo — BR 🇧🇷",
+  "domain"   : ["Web", "Mobile", "AI / RAG Systems"],
+  "currently": "Building ragup.com.br — RAG platform w/ agents",
+  "stack"    : "JS/TS • Node • React • Vue • Python • PHP",
+  "focus"    : "Local LLM inference + AI agent pipelines",
+  "hobbies"  : ["Bike 🚲", "Music 🎧", "Books 📕", "Gym 🏋️"]
+}
+```
+
+<br clear="right"/>
+
+---
+
+### `$ cat /etc/currently-shipping`
+
+> 🚀 **[ragup.com.br](https://ragup.com.br)** — Plataforma de RAG com agentes conversacionais  
+> Construindo features de **agentes IA** acessíveis via WhatsApp & API,  
+> com system prompts configuráveis, bases RAG e inferência local com modelos leves (1B–7B).
+
+---
+
+### `$ ls -la ./tech-stack/`
+
+<details open>
+<summary><b>⚡ Frontend</b></summary>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-00D8FF?style=flat-square&logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vuedotjs&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Nuxt](https://img.shields.io/badge/Nuxt-00C16E?style=flat-square&logo=nuxtdotjs&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DB35A?style=flat-square&logo=nodedotjs&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=flat-square&logo=graphql&logoColor=fff)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=fff)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=fff)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI / LLM Stack</b></summary>
+
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webassembly&logoColor=fff)
+![Qwen](https://img.shields.io/badge/Qwen_2.5-7B%2F3B%2F1B-orange?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blueviolet?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-58a6ff?style=flat-square)
+![WebLLM](https://img.shields.io/badge/WebLLM-browser_inference-green?style=flat-square)
+![GGUF](https://img.shields.io/badge/GGUF-q4f16__1-yellow?style=flat-square)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>🗄️ Data & Infra</b></summary>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=fff)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=fff)
+
+</details>
+
+---
+
+### `$ cat ./articles.txt`
+
+| 📝 | Artigo | Plataforma |
+|---|---|---|
+| 🎬 | [Cypress — Testes de Última Geração para Front-end](https://www.youtube.com/watch?v=L5ZTohYaj-E) | YouTube |
+| ✍️ | [Deno — Quais os Motivos do Hype?](https://medium.com/entelgybrasil/deno-171d454521e8) | Medium |
+| 🎓 | [Análise do Método Scrum para Gerenciamento de Projetos de Software](https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/view/566) | Revista FATEC |
+| 🎓 | [O Processo de Deploy Automático em Ambientes de Computação na Nuvem](https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/view/545) | Revista FATEC |
+
+---
+
+### `$ top --sort=activity`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosoriano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gustavosoriano&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+### `$ ping ./contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Soriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soriano-7326b9130)
+[![Gmail](https://img.shields.io/badge/Gmail-sorianox2013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorianox2013@gmail.com)
+[![ragup.com.br](https://img.shields.io/badge/Product-ragup.com.br-58a6ff?style=for-the-badge&logo=rocket&logoColor=white)](https://ragup.com.br)
+
+</div>
+
+---
