@@ -53,6 +53,9 @@
 > A student-focused platform for accessing notes, academic resources, and study materials in one place.  
 > Built with **HTML, CSS, JavaScript**, deployed on **Netlify**.
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepakMoHank&theme=tokyonight&no-frame=true&no-bg=true&title=Stars,Commits,Repositories,Followers,PullRequest" />
+</div>
 
 
 ### `$ top --sort=activity`
