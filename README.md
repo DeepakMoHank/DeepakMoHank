@@ -1,7 +1,7 @@
 <!--
 ████████████████████████████████████████████████████████████████████████████████
 ██                                                                            ██
-██   GUSTAVO SORIANO — SOFTWARE ENGINEER                                      ██
+██   Deepak Mohan k k                                                         ██
 ██                                                                            ██
 ████████████████████████████████████████████████████████████████████████████████
 -->
@@ -47,11 +47,11 @@
 
 ---
 
-### `$ cat /etc/currently-shipping`
+### `$ cat /etc/currently-building`
 
-> 🚀 **[ragup.com.br](https://ragup.com.br)** — Plataforma de RAG com agentes conversacionais  
-> Construindo features de **agentes IA** acessíveis via WhatsApp & API,  
-> com system prompts configuráveis, bases RAG e inferência local com modelos leves (1B–7B).
+> **[bcs-studyresources.netlify.app](https://bcs-studyresources.netlify.app)** — Educational Resource Platform  
+> A student-focused platform for accessing notes, academic resources, and study materials in one place.  
+> Built with **HTML, CSS, JavaScript**, deployed on **Netlify**.
 
 
 
