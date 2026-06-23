@@ -36,10 +36,10 @@
   "name"     : "Deepak Mohan k k",
   "role"     : "Student With no passion",
   "location" : "Kasragod,Kerala,India",
-  "domain"   : ["No Particular domains,just do it"],
+  "domain"   : ["No Particular domains"],
   "currently": "Busy",
   "stack"    : "Html5 • CSS • Java • Vue • Python • PHP",
-  "focus"    : "Focusing on studies to clear my arrears",
+  "focus"    : "Focusing on my studies to clear my arrears",
   }
 ```
 
