@@ -34,7 +34,7 @@
 ```bash
 {
   "name"     : "Deepak Mohan k k",
-  "role"     : "Student With no passion",
+  "role"     : "---",
   "location" : "Kasragod,Kerala,India",
   "domain"   : ["No Particular domains"],
   "currently": "Busy",
