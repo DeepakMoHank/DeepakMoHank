@@ -1,30 +1,32 @@
-````markdown
-<div align="center">
-
+````markdown id="yk8m4d"
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   ██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗          ║
-║   ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝          ║
-║   ██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝           ║
-║   ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗           ║
-║   ██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗          ║
-║   ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝          ║
+║   ██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗         ║
+║   ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝         ║
+║   ██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝          ║
+║   ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗          ║
+║   ██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗         ║
+║   ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝         ║
+║                                                              ║
+║                                                              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+---
+
 ### `$ whoami`
 
-```json
+```bash
 {
-  "name": "Deepak Mohan K K",
-  "role": "---",
-  "location": "Kasaragod, Kerala, India",
-  "domain": ["No Particular domains"],
+  "name"     : "Deepak Mohan K K",
+  "role"     : "---",
+  "location" : "Kasaragod, Kerala, India",
+  "domain"   : ["No Particular domains"],
   "currently": "Busy",
-  "stack": "HTML5 • CSS • Java • Vue • Python • PHP",
-  "focus": "Focusing on my studies to clear my arrears"
+  "stack"    : "HTML5 • CSS • Java • Vue • Python • PHP",
+  "focus"    : "Focusing on my studies to clear my arrears"
 }
 ```
 
@@ -39,8 +41,6 @@
 ---
 
 ### `$ top --sort=activity`
-
-<!-- GitHub stats / activity here -->
 
 ---
 
@@ -74,5 +74,5 @@ $ cat status.txt
 Open for internships, collaborations & interesting projects.
 ```
 
-</div>
+---
 ````
