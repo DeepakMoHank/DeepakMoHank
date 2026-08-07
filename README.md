@@ -1,5 +1,7 @@
-````markdown
-```
+````markdown id="g5n8rw"
+<div align="center">
+
+```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   ██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗         ║
@@ -9,30 +11,38 @@
 ║   ██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗         ║
 ║   ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝         ║
 ║                                                              ║
-║                                                              ║
-║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ### `$ whoami`
 
-```bash
+</div>
+
+```json
 {
-  "name"     : "Deepak Mohan K K",
-  "role"     : "---",
-  "location" : "Kasaragod, Kerala, India",
-  "domain"   : ["No Particular domains"],
-  "currently": "Busy",
-  "stack"    : "HTML5 • CSS • Java • Vue • Python • PHP",
-  "focus"    : "Focusing on my studies to clear my arrears"
+  "name"      : "Deepak Mohan K K",
+  "role"      : "---",
+  "location"  : "Kasaragod, Kerala, India",
+  "domain"    : ["No Particular domains"],
+  "currently" : "Busy",
+  "stack"     : "HTML5 • CSS • Java • Vue • Python • PHP",
+  "focus"     : "Focusing on my studies to clear my arrears"
 }
 ```
 
 ---
 
+<div align="center">
+
 ### `$ cat /etc/currently-building`
+
+</div>
 
 > **[bcs-studyresources.netlify.app](https://bcs-studyresources.netlify.app)** — Educational Resource Platform  
 > A student-focused platform for accessing notes, academic resources, and study materials in one place.  
@@ -40,11 +50,21 @@
 
 ---
 
+<div align="center">
+
 ### `$ top --sort=activity`
+
+</div>
+
+<!-- Add GitHub Stats, Streak, Activity Graph, etc. here -->
 
 ---
 
-### `$ ping ./contact`
+<div align="center">
+
+### `$ tree ~/contact`
+
+</div>
 
 ```text
 ~/contact
