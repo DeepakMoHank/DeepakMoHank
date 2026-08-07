@@ -42,6 +42,12 @@
 ---
 
 ### `$ ping ./contact`
+[PING] Response 200 OK — Connect via endpoints:
+
+  ┌── Email    : deepakmohankk@gmail.com
+  ├── GitHub   : github.com/your-username
+  ├── LinkedIn : linkedin.com/in/your-username
+  └── Website  : bcs-studyresources.netlify.app
 
 
 
@@ -49,4 +55,4 @@
 
 ---
 
-this is the prev read me structure make the same for new only change the contack 
+
