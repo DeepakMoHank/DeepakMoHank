@@ -1,13 +1,4 @@
-<!--
-████████████████████████████████████████████████████████████████████████████████
-██                                                                            ██
-██   Deepak Mohan k k                                                         ██
-██                                                                            ██
-████████████████████████████████████████████████████████████████████████████████
--->
-
-<div align="center">
-
+````markdown
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -23,27 +14,21 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 ---
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=gustavosoriano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
 
 ### `$ whoami`
 
 ```bash
 {
-  "name"     : "Deepak Mohan k k",
+  "name"     : "Deepak Mohan K K",
   "role"     : "---",
-  "location" : "Kasragod,Kerala,India",
+  "location" : "Kasaragod, Kerala, India",
   "domain"   : ["No Particular domains"],
   "currently": "Busy",
-  "stack"    : "Html5 • CSS • Java • Vue • Python • PHP",
-  "focus"    : "Focusing on my studies to clear my arrears",
-  }
+  "stack"    : "HTML5 • CSS • Java • Vue • Python • PHP",
+  "focus"    : "Focusing on my studies to clear my arrears"
+}
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -53,30 +38,39 @@
 > A student-focused platform for accessing notes, academic resources, and study materials in one place.  
 > Built with **HTML, CSS, JavaScript**, deployed on **Netlify**.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepakMoHank&theme=tokyonight&no-frame=true&no-bg=true&title=Stars,Commits,Repositories,Followers,PullRequest" />
-</div>
-
+---
 
 ### `$ top --sort=activity`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakMoHank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DeepakMoHank&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
-
-</div>
 
 ---
 
 ### `$ ping ./contact`
 
-<div align="center">
+```text
+~/contact
+├── email.txt
+├── github.url
+├── linkedin.url
+├── portfolio.url
+├── location.txt
+└── status.txt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Soriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soriano-7326b9130)
-[![Gmail](https://img.shields.io/badge/Gmail-sorianox2013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorianox2013@gmail.com)
-[![Website]([https://img.shields.io/badge/Product-ragup.com.br-58a6ff?style=for-the-badge&logo=rocket&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white))](https://ragup.com.br)
+$ cat email.txt
+your.email@example.com
 
-</div>
+$ cat github.url
+https://github.com/yourusername
 
----
+$ cat linkedin.url
+https://linkedin.com/in/yourusername
+
+$ cat portfolio.url
+https://yourwebsite.com
+
+$ cat location.txt
+Kasaragod, Kerala, India
+
+$ cat status.txt
+Open for internships, collaborations & interesting projects.
+```
+````
