@@ -44,10 +44,10 @@
 ### `$ ping ./contact`
 [PING] Response 200 OK — Connect via endpoints:
 
-  ┌── Email    : deepakmohankk@gmail.com
-  ├── GitHub   : github.com/your-username
-  ├── LinkedIn : linkedin.com/in/your-username
-  └── Website  : bcs-studyresources.netlify.app
+  ┌── Email    : 6wisdomspeaks@gmail.com
+  ├── GitHub   :[ https://github.com/DeepakMoHank](https://github.com/DeepakMoHank)
+  ├── LinkedIn : www.linkedin.com/in/deepakmohankk
+  └── Website  : tinkerhub-portfolio.vercel.app
 
 
 
